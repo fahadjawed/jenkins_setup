@@ -1,1 +1,1 @@
-# jenkins_setup
+# jenkins setup
