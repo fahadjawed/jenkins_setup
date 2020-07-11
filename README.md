@@ -1,1 +1,1 @@
-# jenkins setu
+# jenkins setup
